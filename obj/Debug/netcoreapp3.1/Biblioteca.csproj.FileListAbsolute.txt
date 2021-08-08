@@ -25,7 +25,6 @@ C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemb
 C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
 C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
 C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
-C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\scopedcss\bundle\Biblioteca.styles.css
 C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
 C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
 C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
@@ -51,3 +50,10 @@ C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.Copy
 C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ExcluirUsuario.cshtml.g.cs
+C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+C:\Users\gabri\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs

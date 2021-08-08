@@ -1,0 +1,31 @@
+@model Usuario
+
+@{
+    ViewData["Title"] = "RegistrarUsuarios";
+}
+
+<form action="RegistrarUsuarios" method="POST">
+
+    <p>
+        <label asp-for="Nome">Nome:</label>
+        <input asp-for="Nome">
+    </p>
+    
+    <p>
+        <label asp-for="Login">Login:</label>
+        <input asp-for="Login">
+    </p>
+    
+    <p>
+        <label asp-for="Senha">Senha:</label>
+        <input asp-for="Senha">
+    </p>
+    
+    
+    <select name="tipo" id="userTipo">
+        <option value="@Usuario.ADMIN">Administrador</option>
+        <option value="@Usuario.PADRAO">Padrão</option>
+    </select>
+
+    <input type="submit" value="CONCLUIR ">
+</form>

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jLokoHtgB3xc4qGQRo7PDPNb+mbuFw679lvoPDXaMkVZz4tucg7hg6vu80MZn65XxazFWu/gS1GT+Fus7RW3tQ==",
+  "dgSpecHash": "kG1r5qnQUoFv4NlGzZvfmDiH+C0pn6YkYDuw7/rdpVC+kcvFGxV4X3kTgAlVt4CNy2p/zwSHHBCyn83kAYbaug==",
   "success": true,
   "projectFilePath": "C:\\Users\\gabri\\Desktop\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
@@ -28,8 +28,7 @@
     "C:\\Users\\gabri\\.nuget\\packages\\system.collections.immutable\\1.6.0\\system.collections.immutable.1.6.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+    "C:\\Users\\gabri\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
   ],
   "logs": []
 }
